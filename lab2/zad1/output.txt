@@ -1,0 +1,6 @@
+Bye	3
+Goodbye	2
+Hadoop	2
+Hello	5
+World	2
+bla	13
